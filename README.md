@@ -1,4 +1,5 @@
 [About](https://github.com/temrage/uninstall_school_spyware/blob/main/about.md)
+
 This guide is for Windows 10/11 only
 
 <aside>
