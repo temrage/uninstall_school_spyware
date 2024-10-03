@@ -33,7 +33,7 @@ This guide will help you remove the Securly proxy from your device by deleting t
 3. Remove AutoConfigURL from the Registry. 
 The second script, will reset the `AutoConfigURL` entry from your Windows registry, which is responsible for enforcing the Securly proxy. Once again this script is obtained from Securly, Inc and is entirely open source.
     
-    [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/blob/main/Overwrite%20Empty%20SmartPAC%20Value.reg) (Select "Download RAW File")
+    [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/releases/download/release/Overwrite.Empty.SmartPAC.Value.reg)
     
     - Source code
         
