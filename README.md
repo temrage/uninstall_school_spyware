@@ -18,6 +18,10 @@ This guide will help you remove the Securly proxy from your device by deleting t
 2. Download and run this script. You must run this script as administator or else it won’t delete all Securly certificates. This script deletes certificates related to "*.securly.com" from both the system and user certificate stores. The script is obtained from Securly, Inc and is entirely open source.
     
     [RemoveSecurlyCert.bat](https://github.com/temrage/uninstall_school_spyware/releases/download/release/RemoveSecurlyCert.bat)
+RemoveSecurlyCert.bat	MD5	1E7F88F90A67E87001EE6D90B4D5E384
+RemoveSecurlyCert.bat	SHA-1	E4413699962BAABC378673C33F7BC2B187958756
+RemoveSecurlyCert.bat	SHA-256	FB43CB78C9FA70C8F2FC25E25BB7B8F94947533052A6CD7906EE31CB3A82A8D3
+RemoveSecurlyCert.bat	SHA-512	0CD2C5F34644DAC31DC91C0469CBD6F18B5F3255753B9B15B7A832A581BD2BF231015FD31B15AB5C34F5B3A3D1BB8D5C944EAAAE6A28A41A04BB72348C729B93
     
     - Source code
         
@@ -34,7 +38,11 @@ This guide will help you remove the Securly proxy from your device by deleting t
 The second script, will reset the `AutoConfigURL` entry from your Windows registry, which is responsible for enforcing the Securly proxy. Once again this script is obtained from Securly, Inc and is entirely open source.
     
     [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/releases/download/release/Overwrite.Empty.SmartPAC.Value.reg)
-    
+Overwrite Empty SmartPAC Value.reg	MD5	29FEC29E74731A09B14AE4A0E9491D2E
+Overwrite Empty SmartPAC Value.reg	SHA-1	98770D3CB05FD2F4E29EAD9A5C2F038A8489F496
+Overwrite Empty SmartPAC Value.reg	SHA-256	CA4F6781465E6EE776854800783EC5AD8962B59B5646FFB0C0972DAD085CD88D
+Overwrite Empty SmartPAC Value.reg	SHA-512	DA4D161D5D95B09DAE1D55367A2E1078EA5CCEC0FC93857B4B4E65F6EFAE9BA91C2E3055862FAC309448653ADE73DD89A59F49F4E3D242E25F50F1293D7A6F4B
+
     - Source code
         
         ```bash
