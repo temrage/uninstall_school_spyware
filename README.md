@@ -92,7 +92,8 @@ Under Development
 <aside>
 ❗ If your internet stops working, forget the wifi and reconnect
 If you are getting a https error (your connection is not private) follow the steps on the SSL Inspection page
-While the steps provided are designed to help you manage and remove unnecessary surveillance software from your personal device, proceeding with these actions is at your own risk. Please ensure that you review and fully understand your school's policies before making any changes to your OWN device. I am not responsible for any consequences or issues that may arise from following this guide, including any potential conflicts with your school's regulations. Always proceed with caution, think critically, and avoid making stupid choices.
+
+While the steps provided are designed to help you manage and remove unnecessary surveillance software from your personal device, proceeding with these actions is at your own risk. Please ensure that you review and fully understand your school's policies before making any changes to your OWN device. I am not responsible for any consequences or issues that may arise from following this guide, including any potential conflicts with your school's regulations. Always proceed with caution, think critically, and don't make stupid choices.
 
 
 </aside>
