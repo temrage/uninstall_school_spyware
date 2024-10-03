@@ -6,7 +6,7 @@ Many schools require students to go through an "initial device registration" pro
 
 Securly Proxy
 
-- What tf is this?
+- What is this?
     
     Securly Proxy is a tool used by some schools to monitor and manage internet activity on student’s devices. Here’s a breakdown of how it works and its implications:
     
@@ -19,7 +19,7 @@ Securly Proxy
 
 MDM (**Mobile Device Management)**
 
-- What tf is this?
+- What is this?
     
     **Mobile Device Management (MDM)** is a software solution used by organizations, including schools, to manage and secure devices they own. It typically allows administrators to:
     
@@ -50,8 +50,6 @@ MDM (**Mobile Device Management)**
     - **New IT Policy**: This requirement seems to have been removed, however it’s still not clear whether the school continues to install MDM on personal devices.
 
 ## This guide only for students in🔴🟢 school.
-
-I won't be naming the specific school to avoid any potential issues.
 
 # Privacy
 
