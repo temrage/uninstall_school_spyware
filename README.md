@@ -7,6 +7,7 @@ This guide is for Windows 10/11 only
 
 - The scripts in this guide are open-source.
 - **You should always review the source code before executing any script.**
+- Please check the hashes of the script files before running it to make sure it was not modified.
 </aside>
 
 ### Securly
