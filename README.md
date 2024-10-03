@@ -40,7 +40,7 @@ RemoveSecurlyCert.bat	SHA-512	0CD2C5F34644DAC31DC91C0469CBD6F18B5F3255753B9B15B7
         ```
         
     
-4. Remove AutoConfigURL from the Registry. 
+3. Remove AutoConfigURL from the Registry. 
 The second script, will reset the `AutoConfigURL` entry from your Windows registry, which is responsible for enforcing the Securly proxy. Once again this script is obtained from Securly, Inc and is entirely open source.
     
     [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/releases/download/release/Overwrite.Empty.SmartPAC.Value.reg)
