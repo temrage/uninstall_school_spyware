@@ -15,7 +15,7 @@ This guide will help you remove the Securly proxy from your device by deleting t
     
 2. Download and run this script. You must run this script as administator or else it won’t delete all Securly certificates. This script deletes certificates related to "*.securly.com" from both the system and user certificate stores. The script is obtained from Securly, Inc and is entirely open source.
     
-    [RemoveSecurlyCert.bat](https://github.com/temrage/uninstall_school_spyware/blob/main/RemoveSecurlyCert.bat)
+    [RemoveSecurlyCert.bat](https://github.com/temrage/uninstall_school_spyware/blob/main/RemoveSecurlyCert.bat) (Select "Download RAW File")
     
     - Source code
         
@@ -31,7 +31,7 @@ This guide will help you remove the Securly proxy from your device by deleting t
 3. Remove AutoConfigURL from the Registry. 
 The second script, will reset the `AutoConfigURL` entry from your Windows registry, which is responsible for enforcing the Securly proxy. Once again this script is obtained from Securly, Inc and is entirely open source.
     
-    [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/blob/main/Overwrite%20Empty%20SmartPAC%20Value.reg)
+    [Overwrite Empty SmartPAC Value.reg](https://github.com/temrage/uninstall_school_spyware/blob/main/Overwrite%20Empty%20SmartPAC%20Value.reg) (Select "Download RAW File")
     
     - Source code
         
