@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4ESXHWV.png" width="20%" alt="UNINSTALL_SCHOOL_SPYWARE-logo">
+  <img src="https://i.imgur.com/qGWnhO3.png" width="20%" alt="UNINSTALL_SCHOOL_SPYWARE-logo">
 </p>
 <p align="center">
     <h1 align="center">UNINSTALL_SCHOOL_SPYWARE</h1>
