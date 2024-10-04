@@ -87,7 +87,7 @@ For more detailed instructions on removing Securly certificates, you can also vi
 *Under Development*
 
 > ⚠️ **If your internet stops working**, forget the Wi-Fi network and reconnect.  
-> ⚠️ **Getting a "your connection is not private" error?** Check out the SSL Inspection steps on the next page.
+> ⚠️ **Getting a "your connection is not private" error?** Check out the [SSL Inspection page](https://github.com/temrage/school_ssl_inspection).
 
 ---
 
