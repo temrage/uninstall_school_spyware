@@ -11,7 +11,7 @@
 	<img src="https://img.shields.io/github/languages/count/temrage/uninstall_school_spyware?style=flat&color=0080ff" alt="repo-language-count">
 # 🛡️ Uninstall School Spyware Guide
 
-This guide is specifically designed for **Windows 10/11** users who wish to remove school-installed monitoring software like **Securly**. Whether you're concerned about privacy or simply want more control over your device, this guide will walk you through the steps to take back your digital freedom.
+This guide is specifically designed for **Windows 10/11** users who wish to remove school-installed spyware like **Securly**. Whether you're concerned about privacy or simply want more control over your device, this guide will walk you through the steps to take back your digital freedom.
 
 > ⚠️ **Important Notes**
 > - All scripts in this guide are open-source.
