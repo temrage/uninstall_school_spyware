@@ -27,7 +27,7 @@ This guide is specifically designed for **Windows 10/11** users who wish to remo
 This guide will help you remove the **Securly** proxy by deleting related certificates and resetting the `AutoConfigURL` registry entry. 
 
 ### 🚨 Before You Begin
-1. **Google Chrome users:** Immediately sign out of your school browser profile! Syncing the browser profile can force-install the Securly extension and make Chrome "managed by your organization," allowing schools to monitor your browsing history. 
+1. **Google Chrome users:** Immediately sign out of your school browser profile! Syncing the browser profile will force-install the Securly extension and make Chrome "managed by your organization," allowing schools to monitor your browsing history. 
    - For better privacy, consider switching to open-source browsers like **Brave**, **Firefox**, or **LibreWolf**.
 
 ### 🛠️ Steps to Remove Securly
