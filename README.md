@@ -34,8 +34,7 @@ This guide will help you remove the **Securly** proxy by deleting related certif
 
 #### 1. Remove Securly Certificates
 
-Download and run the script below as an **administrator** to delete certificates associated with "*.securly.com" from both system and user certificate stores.
-
+Download and run the script below as an **administrator** to delete certificates associated with "*.securly.com" from both system and user certificate stores. You must right click and run it as administrator.
 - [Download RemoveSecurlyCert.bat](https://github.com/temrage/uninstall_school_spyware/releases/download/release/RemoveSecurlyCert.bat)
 
    **File Hashes for Verification:**
@@ -78,8 +77,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Connections]
 "DefaultConnectionSettings"=hex:...
 ```
-
-For more detailed instructions on removing Securly certificates, you can also visit [Securly’s official support page](https://support.securly.com/hc/en-us/articles/360040183593-How-to-uninstall-the-Securly-SSL-Certificate-from-BYOD-devices).
 
 ---
 
