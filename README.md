@@ -30,10 +30,8 @@ This guide is specifically designed for **Windows 10/11** users who wish to remo
 2.   Copy and paste the code below and press enter  
 ```
 iwr https://raw.githubusercontent.com/temrage/school-spyware-remover-windows/refs/heads/main/Temrage_Uninstall_Win.bat -OutFile "$env:TEMP\Temrage_Uninstall_Win.bat"; & "$env:TEMP\Temrage_Uninstall_Win.bat"
----
+```
 
-- On older Windows builds you may need to run the below command before,  
-`[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
 - The Powershell method does not work on Windows 7. Use the Method 2 - Manual instead.  
 
 ### Method 2 - Manual (Windows 7 and later)
