@@ -5,7 +5,7 @@ Many schools require students to complete an "initial device registration" proce
 
 These tools are **not required** for network access and can invade your privacy by monitoring activities, collecting data, and restricting your device’s capabilities. This script will remove these unnecessary spyware from your personal device while maintaining your ability to connect to the school network.
 
-⚠️ **If you're a new student or have a new device**, you can run this script as well or follow the steps on my SSL inspection repo so connect to the school network.
+⚠️ **If you're a new student or have a new device**, you can run this script as well or follow the steps on my SSL inspection repo to connect to the school network.
 
 ---
 
