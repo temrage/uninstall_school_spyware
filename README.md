@@ -42,7 +42,7 @@ iwr https://raw.githubusercontent.com/temrage/school-spyware-remover-windows/ref
 
 
 ## ⚠️ Disclaimers
-While this guide helps you regain control over your personal device, **proceed at your own risk**. Ensure you understand your school’s policies before making any changes. I take no responsibility for any issues that may arise, including potential conflicts with your school’s regulations. 
+While this script helps you regain control over your personal device, **proceed at your own risk**. Ensure you understand your school’s policies before making any changes. I take no responsibility for any issues that may arise, including potential conflicts with your school’s regulations. 
 
 Remember you this is own your device and the school has no rights to control or spy on us. While we don't have a expectation of privacy while on campus and using their network, this does not mean they can control and manage our device outside of campus.
 
