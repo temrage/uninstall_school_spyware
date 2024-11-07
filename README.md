@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/ec0RaHP.png" width="20%" alt="UNINSTALL_SCHOOL_SPYWARE-logo">
 </p>
 <p align="center">
-    <h1 align="center">UNINSTALL_SCHOOL_SPYWARE</h1>
+    <h1 align="center">SCHOOL SPYWARE REMOVER WINDOWS</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/temrage/uninstall_school_spyware?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -14,13 +14,32 @@
 This guide is specifically designed for **Windows 10/11** users who wish to remove school-installed spyware like **Securly**. Whether you're concerned about privacy or simply want more control over your device, this guide will walk you through the steps to take back your digital freedom.
 
 > ⚠️ **Important Notes**
-> - All scripts in this guide are open-source.
+> - This script is entirely open-source.
 > - **Always review the source code before running any script.**
 > - Verify the script hashes before execution to ensure they have not been tampered with.
 
 [Learn more about this project](https://github.com/temrage/uninstall_school_spyware/blob/main/about.md)
 
+## Download / How to use it?
+
+### Method 1 - PowerShell (Windows 8 and later) 
+
+### Method 1 - PowerShell (Windows 8 and later) ❤️
+
+1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
+2.   Copy and paste the code below and press enter  
+```
+iwr https://raw.githubusercontent.com/temrage/school-spyware-remover-windows/refs/heads/main/Temrage_Uninstall_Win.bat -OutFile "$env:TEMP\Temrage_Uninstall_Win.bat"; & "$env:TEMP\Temrage_Uninstall_Win.bat"
 ---
+
+- On older Windows builds you may need to run the below command before,  
+`[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
+- The Powershell method does not work on Windows 7. Use the Method 2 - Manual instead.  
+
+### Method 2 - Manual (Windows 7 and later)
+
+1.   Download the file under the code button from [GitHub) {https://github.com/temrage/school-spyware-remover-windows/releases/download/release/Temrage_Uninstall_Win.bat}
+2.   Run the file named `Temrage_Uninstall_Win.bat`
 
 ## 📜 Removing Securly
 
