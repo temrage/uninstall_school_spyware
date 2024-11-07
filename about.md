@@ -3,13 +3,13 @@
 
 Many schools require students to complete an "initial device registration" process to connect to their network. During this process, they may install software on your personal device, such as **Mobile Device Management (MDM)** profiles or other surveillance tools like **Securly**. 
 
-These tools are **not required** for network access and can invade your privacy by monitoring activities, collecting data, and restricting your device’s capabilities. This guide will help you identify and remove these unnecessary surveillance tools from your personal device while maintaining your ability to connect to the school network.
+These tools are **not required** for network access and can invade your privacy by monitoring activities, collecting data, and restricting your device’s capabilities. This script will remove these unnecessary spyware from your personal device while maintaining your ability to connect to the school network.
 
-⚠️ **If you're a new student or have a new device**, follow the steps on the SSL inspection page to bypass the "initial device registration" process entirely and protect your privacy.
+⚠️ **If you're a new student or have a new device**, you can run this script as well or follow the steps on my SSL inspection repo so connect to the school network.
 
 ---
 
-## 🎯 What We'll Be Removing
+## 🎯 What will be removed?
 
 ### 🔍 **Securly Proxy**
 
@@ -57,16 +57,7 @@ Despite claims that not all permissions are activated, privacy risks persist, in
 
 ---
 
-## 🔄 Policy Changes
-
-- **Old Policy**: Previously, schools required MDM installation on personal devices.
-- **New IT Policy**: The official requirement has been removed, but it's unclear whether schools continue to install MDM without explicit permission.
-
 ---
-
-## 🛠️ Guide for Students to Remove Spyware and Protect Privacy
-
-This guide is **specifically for students** in schools that mandate device registration but respect your right to privacy. We will walk you through the process of uninstalling unnecessary software like **Securly Proxy** and **MDM** from your device.
 
 ---
 
